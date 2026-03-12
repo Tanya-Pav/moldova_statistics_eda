@@ -19,20 +19,25 @@ Seaborn
 
 ## Example Visualizations
 
-### Distribution of Population Indicator
-![Histogram](results/histogram_population.png)
+### Distribution of Indicator Values (2023)
+![Distribution](results/distribution_2023.png)
 
-### Boxplot of Indicator Values
-![Boxplot](results/boxplot_population.png)
+### Outlier Detection (Boxplot)
+![Outliers](results/outliers_2023.png)
 
-### Comparison by Gender
-![Barplot](results/barplot_indicator_sex.png)
+### Gender Ratio
+![Gender Ratio](results/gender_ratio.png)
+
+### Activity by Indicator and Gender
+![Activity](results/activity_barplot.png)
+
+### Urban vs Rural Comparison
+![Urban Rural](results/urban_rural_comparison.png)
+
+### Scatter Trend Between Years
+![Scatter](results/scatter_trend.png)
 
 ### Correlation Between Years
-![Heatmap](results/heatmap_correlation.png)
+![Correlation](results/correlation_heatmap.png)
 
-## Descriptive Statistics
 
-The project also generates a summary statistics table saved in:
-
-results/statistica_summary.xlsx
